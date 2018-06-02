@@ -1,0 +1,88 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SSCommonCrypto",
+        "repositoryURL": "https://github.com/daltoniam/common-crypto-spm",
+        "state": {
+          "branch": null,
+          "revision": "2eb3aff0fb57f92f5722fac5d6d20bf64669ca66",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SKClient",
+        "repositoryURL": "https://github.com/SlackKit/SKClient",
+        "state": {
+          "branch": null,
+          "revision": "008e10a402f17519750a5b94c4cf6b16310abf18",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "SKCore",
+        "repositoryURL": "https://github.com/SlackKit/SKCore",
+        "state": {
+          "branch": null,
+          "revision": "1ac0e21612d4390206adeb57eb5f8fcae66c0811",
+          "version": "4.1.1"
+        }
+      },
+      {
+        "package": "SKRTMAPI",
+        "repositoryURL": "https://github.com/SlackKit/SKRTMAPI",
+        "state": {
+          "branch": null,
+          "revision": "c46f78c588e619c0d547ecae264d77dfaff5c0f0",
+          "version": "4.1.2"
+        }
+      },
+      {
+        "package": "SKServer",
+        "repositoryURL": "https://github.com/guidomb/SKServer",
+        "state": {
+          "branch": "linux",
+          "revision": "e2ee13d4ffcf634d250acbdbf123865a25a65496",
+          "version": null
+        }
+      },
+      {
+        "package": "SKWebAPI",
+        "repositoryURL": "https://github.com/SlackKit/SKWebAPI",
+        "state": {
+          "branch": null,
+          "revision": "b5b303c7e5cdecd587499061a81128ef4d7ed3f1",
+          "version": "4.1.3"
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/daltoniam/Starscream",
+        "state": {
+          "branch": null,
+          "revision": "114e5df9b6251970a069e8f1c0cbb5802759f0a9",
+          "version": "3.0.5"
+        }
+      },
+      {
+        "package": "Swifter",
+        "repositoryURL": "https://github.com/guidomb/swifter.git",
+        "state": {
+          "branch": "linux",
+          "revision": "cc406a4c03d808fd0ee9873e0cef36f894cfadb9",
+          "version": null
+        }
+      },
+      {
+        "package": "SSCZLib",
+        "repositoryURL": "https://github.com/daltoniam/zlib-spm.git",
+        "state": {
+          "branch": null,
+          "revision": "83ac8d719a2f3aa775dbdf116a57f56fb2c49abb",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
